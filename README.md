@@ -19,9 +19,9 @@ Covers Python's iterator protocol using __iter()__ and __next()__ to process ele
 Explores generator functions and the yield keyword for memory-efficient data processing.
 ## Requirements 
 - Python 3.12
-##Running the Programs
+## Running the Programs
 - Clone the repository
 - Navigate the repository
 - Run a python file
-#Author
+# Author
 Vibhuti Chaddha
